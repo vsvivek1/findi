@@ -1,0 +1,19 @@
+{
+  "name": "findependence",
+  "version": "1.0.0",
+  "description": "version 1 of findependece",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsvivek1/findi.git"
+  },
+  "author": "vivek vs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsvivek1/findi/issues"
+  },
+  "homepage": "https://github.com/vsvivek1/findi#readme"
+}
